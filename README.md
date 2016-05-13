@@ -1,2 +1,3 @@
-author = SHENOISZ
-project = csv reader
+#Author SHENOISZ
+
+#project csv reader
