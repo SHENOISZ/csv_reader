@@ -1,6 +1,4 @@
-#Author SHENOISZ
-
-#project csv reader
+#CSV reader
 
 # license
 
