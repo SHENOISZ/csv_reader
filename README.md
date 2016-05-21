@@ -1,5 +1,11 @@
 #CSV reader
 
+### How use:
+
+```
+$python csv_reader.py
+```
+
 # license
 
 Copyright (c) 2016 Marcelo Rodrigues
